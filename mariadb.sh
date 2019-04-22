@@ -19,7 +19,7 @@ mysql_secure_installation
 echo "---------------------------------------------"
 echo ""
 echo ""
-echo "       MySql installation has finished"
+echo "       MariaDB installation has finished"
 echo ""
 echo ""
 echo "---------------------------------------------"
